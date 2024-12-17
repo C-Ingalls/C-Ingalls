@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C-Ingalls
 - 👀 I’m interested in Programming, Games, Anime
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
